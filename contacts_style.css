@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ближчі тури - Three Angles</title>
+    <link rel="stylesheet" type="text/css" href="../css/tours_style.css">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>БЛИЖЧІ ТУРИ</h1>
+            <p class="subtitle">Графік найближчих експедицій 2026. Ми формуємо обмежені групи (до 12 осіб) для забезпечення максимальної безпеки та індивідуального супроводу.</p>
+        </header>
+
+        <section class="main-images">
+            <img src="../img/всередині.jpg" alt="Експедиція всередині" width="450">
+            <img src="../img/зовні.jpg" alt="Експедиція ззовні" width="450">
+        </section>
+
+        <section class="tour-details">
+            
+            <div class="card">
+                <ul>
+                    <li><strong>24 березня — 02 квітня</strong></li>
+                    <li>Статус: Залишилося 2 місця.</li>
+                    <li>Особливість: Відкриття сезону, ідеальні погодні умови та мінімальна магнітна активність.</li>
+                </ul>
+            </div>
+
+            <div class="card waiting">
+                <ul>
+                    <li><strong>10 вересня — 19 вересня</strong></li>
+                    <li>Статус: Формування списку очікування.</li>
+                    <li>Особливість: Дослідницький тур з розширеною програмою глибоководних занурень.</li>
+                </ul>
+            </div>
+
+            <div class="card">
+                <ul>
+                    <li><strong>15 червня — 24 червня</strong></li>
+                    <li>Статус: Відкрито бронювання (8 місць вільні).</li>
+                    <li>Особливість: Літня експедиція з акцентом на нічні спостереження за люмінесценцією океану.</li>
+                </ul>
+            </div>
+
+        </section>
+
+        <footer>
+            <a href="../start.html"><button>Назад на головну</button></a>
+        </footer>
+    </div>
+
+</body>
+</html>

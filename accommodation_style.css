@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Відгуки - THREE ANGLES</title>
+    <link rel="stylesheet" type="text/css" href="../css/reviews_style.css">
+</head>
+<body>
+
+    <header>
+        <a href="../start.html" style="text-decoration: none;">
+            <h1>THREE ANGLES</h1>
+        </a>
+        <p class="brand-sub">ВІДГУКИ УЧАСНИКІВ</p>
+    </header>
+
+    <nav class="main-nav">
+        <a href="road.html">ДОРОГА</a>
+        <a href="accommodation.html">ПРОЖИВАННЯ</a>
+        <a href="contacts.html">КОНТАКТИ</a>
+    </nav>
+
+    <main class="container">
+        <section class="glass-card">
+            <div class="review-item">
+                <div class="stars">★★★★★</div>
+                <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400" alt="Марк В.">
+                <h3>Марк В.</h3>
+                <p class="review-text">"Вражений рівнем оснащення та безпеки експедиції. Це був досвід, що змінив моє життя. Explorer III — найкраще судно, на якому я коли-небудь виходив у море."</p>
+            </div>
+        </section>
+
+        <section class="glass-card">
+            <div class="review-item">
+                <div class="stars">★★★★★</div>
+                <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400" alt="Олена К.">
+                <h3>Олена К.</h3>
+                <p class="review-text">"Неймовірна атмосфера! Команда професіоналів знає кожен дюйм Трикутника. Дякую за можливість побачити аномалії на власні очі!"</p>
+            </div>
+        </section>
+
+        <section class="glass-card">
+            <div class="review-item">
+                <div class="stars">★★★★☆</div>
+                <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400" alt="Андрій П.">
+                <h3>Андрій П.</h3>
+                <p class="review-text">"Все було на висоті, від кают до наукового обладнання. Єдине — хотілося б більше часу на глибоководні занурення."</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <a href="../start.html"><button>НА ГОЛОВНУ</button></a>
+        <p class="footer-note">THREE ANGLES EXPEDITION SYSTEM V3.0</p>
+    </footer>
+
+</body>
+</html>

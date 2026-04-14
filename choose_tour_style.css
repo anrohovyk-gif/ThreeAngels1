@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Дорога - THREE ANGLES</title>
+    <link rel="stylesheet" type="text/css" href="../css/road_style.css">
+</head>
+<body>
+
+    <header>
+        <a href="../start.html" style="text-decoration: none;">
+            <h1>THREE ANGLES</h1>
+        </a>
+        <p class="brand-sub">МАРШРУТ ЕКСПЕДИЦІЇ</p>
+    </header>
+
+    <main>
+        <section class="main-content">
+            <div class="layout">
+                <aside class="photos-side">
+                    <div class="photo-box"><img src="../img/порт.webp" alt="Порт відправлення"></div>
+                    <div class="photo-box"><img src="../img/океан.jpg" alt="Відкритий океан"></div>
+                    <div class="photo-box"><img src="../img/аномалії.webp" alt="Точка входу"></div>
+                </aside>
+
+                <article class="info-side">
+                    <h2>ШЛЯХ ДО АНОМАЛІЇ</h2>
+                    <p class="intro-text">
+                        Подорож до центру Трикутника — це не просто круїз. Це маршрут, що пролягає крізь магнітні бурі та часові розломи.
+                    </p>
+
+                    <div class="stages-list">
+                        <div class="stage-item">
+                            <span class="stage-title">Старт: Саргасове море</span>
+                            <p class="stage-desc">Відправлення зі спеціалізованого терміналу. Проходження первинного інструктажу з виживання.</p>
+                        </div>
+
+                        <div class="stage-item highlight-stage">
+                            <span class="stage-title">Точка "Zero": Перетин межі</span>
+                            <p class="stage-desc">Вхід у зону аномалії. Можливі короткочасні збої в роботі годинників та навігаційних систем.</p>
+                        </div>
+
+                        <div class="stage-item">
+                            <span class="stage-title">Фініш: Серце Трикутника</span>
+                            <p class="stage-desc">Прибуття до кінцевої точки експедиції Explorer III для глибоководних досліджень.</p>
+                        </div>
+                    </div>
+
+                    <a href="../start.html" class="back-link"><button>НА ГОЛОВНУ</button></a>
+                </article>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p class="footer-note">THREE ANGLES EXPEDITION SYSTEM V3.0</p>
+    </footer>
+
+</body>
+</html>
